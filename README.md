@@ -17,7 +17,7 @@ Open pychain.py in terminal/git bash using "Streamlit run pychain.py" to open th
 
 ## Usage
 
-After running pychain.py, enter Sender Data, Receiver Data and Amount related to the transaction you'd like to make.  then click the "Add Blcok" button.
+After running pychain.py, enter Sender Data, Receiver Data and Amount related to the transaction you'd like to make.  then click the "Add Block" button.
 
 ---
 
